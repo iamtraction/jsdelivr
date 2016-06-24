@@ -1,0 +1,8 @@
+{
+  "packageManager": "github",
+  "name": "jsdelivr",
+  "repo": "snkrsnkampa/jsdelivr",
+  "files": {
+    "basePath": "dist/"
+  }
+}
